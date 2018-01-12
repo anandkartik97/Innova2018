@@ -1,0 +1,8 @@
+/* Previous sponsors*/
+#fh5co-features {
+  background-color: $brand-white;
+  padding: 0em 0;
+  @media screen and (max-width: $screen-sm) {
+    padding: 3em 0;
+  }
+}
